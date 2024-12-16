@@ -1,0 +1,2 @@
+USUARIO DEFAULT: admin
+CONTRASEÑA DEFAULT: admin
